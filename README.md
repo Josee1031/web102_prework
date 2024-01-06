@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
- ![Alt Text](Kapture%202024-01-06%20at%2010-1.38.13.gif)
+ ![Alt Text](https://github.com/Josee1031/web102_prework/blob/main/assets/Kapture%202024-01-06%20at%2010-1.38.13.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
